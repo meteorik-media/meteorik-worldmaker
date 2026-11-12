@@ -15,6 +15,16 @@ Made with Godot 4.7. Interface in Spanish and English (Options, Language).
 - **Resources** per cell, derived from climate, altitude and plates.
 - Save and load worlds as files; export to SVG on desktop.
 
+## Screenshots
+
+An Earth-like planet imported from a hypsometric map with the Import map tool.
+
+![Relief](screenshots/relief.png)
+
+![Simulated Koppen climate](screenshots/koppen.png)
+
+![Biomes](screenshots/biomes.png)
+
 ## Download
 
 Windows build and browser version: coming to itch.io.
