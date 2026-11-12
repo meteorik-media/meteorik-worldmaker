@@ -1,5 +1,12 @@
 # Release notes
 
+## 1.0.1
+
+- New: Import map (Pause menu, or Ctrl+Shift+I). Builds a whole world from a picture: a land/water mask, a grey height map, or a colour-coded hypsometric map (blue water, green to red altitude). Flat or Mercator pictures, adjustable grid detail, live preview, undoable with Ctrl+Z.
+- Screenshots added to the README.
+
+Built from the same code as Meteori-k Mapper 0.7.3.
+
 ## 1.0.0
 
 First release of Meteorik WorldMaker, the free world-only edition.
