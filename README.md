@@ -30,7 +30,7 @@ An Earth-like planet imported from a hypsometric map with the Import map tool.
 
 ![Simulated Koppen climate](screenshots/koppen.png)
 
-![Biomes](screenshots/biomes.png)
+![Holdridge life zones](screenshots/holdridge.png)
 
 Temperature at local noon, everywhere at once:
 
